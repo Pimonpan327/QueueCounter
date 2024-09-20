@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LOQ\\Desktop\\QueueVer2.2Blazor\\QMS\\QMS.csproj": {}
+    "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\QMS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LOQ\\Desktop\\QueueVer2.2Blazor\\QMS\\QMS.csproj": {
+    "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\QMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LOQ\\Desktop\\QueueVer2.2Blazor\\QMS\\QMS.csproj",
+        "projectUniqueName": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\QMS.csproj",
         "projectName": "QMS",
-        "projectPath": "C:\\Users\\LOQ\\Desktop\\QueueVer2.2Blazor\\QMS\\QMS.csproj",
+        "projectPath": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\QMS.csproj",
         "packagesPath": "C:\\Users\\LOQ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LOQ\\Desktop\\QueueVer2.2Blazor\\QMS\\obj\\",
+        "outputPath": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LOQ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
