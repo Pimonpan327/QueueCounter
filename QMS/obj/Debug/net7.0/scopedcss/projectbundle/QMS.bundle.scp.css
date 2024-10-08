@@ -47,6 +47,11 @@
         background-color: #a62b4c;
         color: whitesmoke;
 }
+/* _content/QMS/Pages/QueueTicket.razor.rz.scp.css */
+.boxqueue[b-jt2cbumi7n] {
+    width: 80mm;
+    height: 80mm;
+}
 /* _content/QMS/Shared/MainLayout.razor.rz.scp.css */
 .page[b-5820ef2mb7] {
     position: relative;

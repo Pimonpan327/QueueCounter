@@ -1,8 +1,6 @@
 ﻿@page "/"
 @using QMS.Services
 @using QMS.Models
-
-
 @inject QueueService QueueService
 @inject NavigationManager NavigationManager
 
@@ -31,6 +29,7 @@
 
     private async Task BookQueue(string queueType)
     {
+        Console.WriteLine("Booking queue...");
         var result = await QueueService.AddQueueAsync(queueType);
 
         if (result != null)
@@ -50,4 +49,6 @@
             ErrorMessage = "ไม่สามารถจองคิวได้ กรุณาลองใหม่อีกครั้ง";
         }
     }
+
+
 }
